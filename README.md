@@ -21,4 +21,4 @@
   
 </div>
   
-  ![Snake animation](https://github.com/rafaballerini/Sotrak2/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Sotrak2/Sotrak2/blob/output/github-contribution-grid-snake.svg)
